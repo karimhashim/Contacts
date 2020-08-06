@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": "5725a6802d10e277a0f35724",
+      "name": "karim hashim",
+      "avatar": "assets/images/avatars/profile.jpg",
+      "starred": [
+        "a46be176",
+        "5725a680b3249760ea21de52"
+      ],
+      "frequentContacts": [
+        "5725a6809fdd915739187ed5",
+        "5725a68031fdbb1db2c1af47",
+        "5725a680606588342058356d",
+        "5725a680e7eb988a58ddf303",
+        "5725a6806acf030f9341e925",
+        "5725a68034cb3968e1f79eac",
+        "5725a6801146cce777df2a08",
+        "5725a680653c265f5c79b5a9"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "5725a680b3249760ea21de52",
+      "name": "mohamed",
+      "lastName": "ahmed",
+      "avatar": "assets/images/avatars/Abbott.jpg",
+      "nickname": "Mido",
+      "company": "dell",
+      "jobTitle": "Digital Archivist",
+      "email": "mohamed@gmail.com",
+      "phone": "+1-202-555-0175",
+      "address": "933 8th Street Stamford, CT 06902",
+      "birthday": "",
+      "notes": ""
+    },
+    {
+      "id": "87f83ca1",
+      "name": "karim hashim",
+      "lastName": "hassan",
+      "avatar": "assets/images/avatars/profile.jpg",
+      "nickname": "ahmed",
+      "company": "1994",
+      "jobTitle": "",
+      "email": "karimhashim27@gmail.com",
+      "phone": "01017100405",
+      "address": "cairo - helwan, 15mayo",
+      "birthday": "",
+      "notes": ""
+    }
+  ]
+}
