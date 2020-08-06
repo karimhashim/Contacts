@@ -1,3 +1,5 @@
+# Firts you have to run command json-server --watch db.json to listen on database
+
 # Fuse - Angular
 
 Material Design Admin Template with Angular 7+ and Angular Material
