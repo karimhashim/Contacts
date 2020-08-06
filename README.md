@@ -1,4 +1,5 @@
-# Firts you have to run command json-server --watch db.json to listen on database
+# DataBase
+ Firts you have to run command json-server --watch db.json to listen on database
 
 # Fuse - Angular
 
